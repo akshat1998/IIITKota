@@ -1,6 +1,6 @@
 angular.module("todoApp", [])
 .controller("todoCtrl", JonSnow)
-
+//todoctrl is to be used in html file.
 function JonSnow (){
     var todo = this;
 
